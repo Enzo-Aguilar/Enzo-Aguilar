@@ -42,22 +42,43 @@ I enjoy building software, understanding how things work under the hood, and con
 | **Freefy** | Music library web application | C#, ASP.NET Core, JSON |
 | **MealSync** | Meal management application | C#, WinForms, SQL |
 
+
 ## `$ github --stats`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Enzo-Aguilar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Aguilar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Enzo-Aguilar&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enzo-Aguilar&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enzo-Aguilar&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
-## `$ activity --graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enzo-Aguilar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 ## `$ contributions --animate`
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Enzo-Aguilar/Enzo-Aguilar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Enzo-Aguilar/Enzo-Aguilar/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation"
+         src="https://raw.githubusercontent.com/Enzo-Aguilar/Enzo-Aguilar/output/github-contribution-grid-snake.svg"
+         width="100%">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:312e81,100:09090b&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
