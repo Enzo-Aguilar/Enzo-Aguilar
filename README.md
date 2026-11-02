@@ -40,7 +40,6 @@ I enjoy building software, understanding how things work under the hood, and con
 | Project | Description | Technologies |
 |---|---|---|
 | **Freefy** | Music library web application | C#, ASP.NET Core, JSON |
-| **Velear AI** | AI-powered chatbot application | Next.js, TypeScript, Python |
 | **MealSync** | Meal management application | C#, WinForms, SQL |
 
 ## `$ github --stats`
