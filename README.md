@@ -44,20 +44,8 @@ I enjoy building software, understanding how things work under the hood, and con
 
 
 ## `$ github --stats`
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=Enzo-Aguilar&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enzo-Aguilar&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Enzo-Aguilar&custom_title=Enzo-Aguilar%20Github%20Stats%2B&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Enzo-Aguilar&custom_title=Enzo-Aguilar%20Github%20Stats%2B&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Enzo-Aguilar&langs_count=9&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Enzo-Aguilar&langs_count=9&theme=transparent)
 
 ## `$ contributions --animate`
 
